@@ -1,7 +1,8 @@
 #include <iostream>
-    using std::cout;
 #include <cstring>
 #include "cstringreader.h"
+
+using namespace std;
 
 int main()
 {
